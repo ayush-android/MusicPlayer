@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="play_error">Unable to Play the song!</string>
+    <string name="cursor_error">Something Went Wrong.</string>
+    <string name="no_music_found">No Music Found.</string>
+    <string name="read_persmission_error">Please grant permission first!</string>
+    <string name="no_music_found_use_pull_refresh">No Music found. Use Pull to Refresh to try again.</string>
+</resources>
